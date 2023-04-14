@@ -1,5 +1,5 @@
-# 💫 Sobre Mim:
-Olá, me chamo João Potyguara, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas na Faculdade CDL, tenho pretensão de seguir inicialmente na linguagem Python, no momento não possuo nenhuma experiência profissional na linguagem, mas tenho total disposição e prontidão para aprender. Sempre aberto para novas experiências e a sugestões.
+# 💫 About Me:
+Hello, My name is João Potyguara, I'm 22 years old and I'm studying Systems Analysis and Development at CDL College, I initially intend to continue with front-end development, at the moment I don't have any professional experience in the area, but I'm still in continuous learning and looking for to enter the world of technology professionally.
 
 
 ## 🌐 Socials:
