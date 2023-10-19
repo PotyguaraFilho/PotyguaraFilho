@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, My name is João Potyguara, I'm 23 years old and I'm studying Systems Analysis and Development at CDL College, I initially intend to continue with front-end development, at the moment I don't have any professional experience in the area, but I'm still in continuous learning and looking for to enter the world of technology professionally.
-
+Hello, my name is João Potyguara, I'm 23 years old and I'm studying Systems Analysis and Development at Faculdade CDL, I intend to start with back-end and/or front-end development, to date I do not have professional experience in the area. I continue to constantly learn and seek to enter the technological area professionally.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/potyguara_filho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-potyguara-b62813235) 
